@@ -9,7 +9,7 @@ if "page" in params:
     page_selected = params["page"][0]
     
 
-pages = ["Capa","Contracapa", "Mensagem da Diretoria", "Cronograma", "Inscrições", "Início do Campeonato", "Critério de Pontuação", "Campeonato de Duplas", "Reserva de Quadras", "Regra do Desafiante e Desafiado", "Tolerância de Tempo", "Solicitação de Ausência", "Desistência/Abandono", "Regra do Jogador que Ausenta do Torneio", "Falta de Energia ou Chuva Durante o Jogo", "Ranking", "Premiação", "Confraternização", "Funções do Presidente e Vice", "Funções do Conselho", "Regras do Grupo do Whatsapp", "Disposições Gerais", "Histórico 1", "Histórico 2", "Mensagem Final"]
+pages = ["Capa", "Contracapa", "Mensagem da Diretoria", "Cronograma", "Inscrições", "Início do Campeonato", "Critério de Pontuação", "Campeonato de Duplas", "Reserva de Quadras", "Regra do Desafiante e Desafiado", "Tolerância de Tempo", "Solicitação de Ausência", "Desistência/Abandono", "Regra do Jogador que Ausenta do Torneio", "Falta de Energia ou Chuva Durante o Jogo", "Ranking", "Premiação", "Confraternização", "Funções do Presidente e Vice", "Funções do Conselho", "Regras do Grupo do Whatsapp", "Disposições Gerais", "Histórico 1", "Histórico 2", "Mensagem Final"]
 
 page_selected = pages.index(page_selected)
 
