@@ -23,7 +23,7 @@ if page == "Capa":
     st.header("Bem-vindo ao Regulamento de Tênis!")
     st.image("REGULAMENTO 18 ATP 2024_pages-to-jpg-0001.jpg")
     
-elif page == "Contrarcapa":
+elif page == "Contracapa":
     st.image("REGULAMENTO 18 ATP 2024_pages-to-jpg-0002.jpg")
     
 elif page == "Mensagem da Diretoria":
