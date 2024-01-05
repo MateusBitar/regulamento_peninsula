@@ -2,7 +2,7 @@ import streamlit as st
 
 st.set_page_config(page_title="Regulamento ATP Península", layout="wide")
 
-page_selected="Mensagem da Diretoria"
+page_selected="Capa"
 
 params = st.experimental_get_query_params()
 if "page" in params:
